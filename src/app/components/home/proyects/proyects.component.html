@@ -26,8 +26,9 @@
                 </div>
                 <div [class.proyect-info-right]='i%2==0' [class.proyect-info-left]='i%2!=0' class="h-100" style="background-image: url('{{project.img}}');">
                     <div class="proyect-box">
-                        <h4 [class.text-right]='i%2==0' [class.text-left]='i%2!=0' class="feature-proyect">{{"FeatureProjects.Label" | translate}}</h4>
+                        <!-- <h4 [class.text-right]='i%2==0' [class.text-left]='i%2!=0' class="feature-proyect">{{"project.date" | translate}}</h4> -->
                         <h5 [class.text-right]='i%2==0' [class.text-left]='i%2!=0' class="proyect-name">{{project.Title}}</h5>
+                        <h4 [class.text-right]='i%2==0' [class.text-left]='i%2!=0' class="projectDate">{{project.date}}</h4>
 
                         <div class="proyect-description-box" (click)='debug()'>
                             <p class="mb-0" [innerHTML]="project.Description">

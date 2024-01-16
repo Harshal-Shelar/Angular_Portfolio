@@ -60,6 +60,7 @@
     "FeatureProjects.Projects": [
         {
             "Title": "MERN Stack Login and CRUD Application",
+            "date" : "1 Jan 2023 to 7 Mar 2023",
             "Description": "React Js and Node Js based web responsive application with features like Login and Registration of users and each user has created record on which he can perform Create, Read, Update and Delete operations",
             "imgs": [
                 "assets/images/school/image1.png",
@@ -74,6 +75,7 @@
         },
         {
             "Title": "Studunt Record Keeping",
+            "date" : "15 Feb 2021 to 21 Apr 2021",
             "Description": "This is the Angular and Node JS based responsive web application, where user can have list of Students where admin can create new record of student with profile photo and also can update the records accoording to the needs and also delete the records.",
             "imgs": [
                 "assets/images/bbm/image1.png",
@@ -89,6 +91,7 @@
         },
         {
             "Title": " Snippet Visualization System",
+            "date" : "11 Aug 2020 to 29 Apr 2021",
             "Description": " We introduced Snippet visualization technique to visualize the collection of textual resul returned from web a query. The method builds meaningful layouts that optimize the placement of snippets that considers both overlapping removal and preservation of neighborhood structures. Since snippet visualization system relays only on information extracted from web result, it can be plugged into search engines in a straightforward manner.",
             "imgs": [
                 "assets/images/mazhr/image1.png"
