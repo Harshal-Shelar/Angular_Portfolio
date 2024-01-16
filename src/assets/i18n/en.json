@@ -2,171 +2,128 @@
     "Header.Item1": "About me",
     "Header.Item2": "Experience",
     "Header.Item3": "Projects",
-    "Header.Item4": "Contact",
+    "Header.Item4": "Education",
+    "Header.Item5": "Contact",
     "Header.cvBtn": "Resume",
     "Header.cvName": "MUFFEEZ_CV.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>3 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and ExpressJS</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
+    "Banner.Description": "I have <span class='underline'>2 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and ExpressJS</span> and sometimes works with databases like <span class='underline'>MySQL and MongoDB</span> applying good practices and development standards.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked on <span class='underline'>Front End Technologies</span>,like <span class='underline'>Angular with different versions</span>, and covering front end developer roles with <span class='underline'>HTML, (S)CSS, Javascript, JQuery</span>. I have knowledge of backend technologies like, Node Js and Express JS, and Databases like MySQL and MongoDB.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
         {
-            "Tab": "Emblem",
-            "Title": "Fullstack developer",
-            "Date": "March 2022 - Present",
+            "Tab": "Aquarious Technology",
+            "Title": "MEAN Stack developer",
+            "Date": "May 2023 - Dec 2023",
+            "Number" : "1",
             "Description": [
-                "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
-                "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
-                "Built a real-time chat application using WebSockets and Node.js, increasing communication and collaboration among team members.",
-                "Implementation of continuous integration and daily backups.",
-                "Leading a team of 4 people in the development of a E-commerce platform made in React, Node, and MySQL.",
-                "Planning meetings in reports."
+                "Created Angular-based responsive web application from scratch where admin and user have login and sign-up credentials",
+                "Admin can manage the property listed and the user can buy these properties with the facilities listed by the admin, and Admin can go through the complaints registered by the user",
+                "Worked on performance improvement and speed optimization and boosted network, and system availability through preventive maintenance & upgrades",
+                "Worked with back-end developers to integrate with APIs to manipulate asynchronous data and used GitHub to maintain the versions of code"
             ]
         },
         
         {
-            "Tab": "BCM",
+            "Tab": "Fintech Global Center",
             "Title": "Frontend developer",
-            "Date": "October 2020 - Feburary 2022",
+            "Date": "Nov 2022 - March 2023",
+            "Number" : "2",
             "Description": [
-                "Developed and maintained web applications using Angular and React.",
-                "Implementation CI / CD in AWS. Refactoring and optimizing application load times.",
-                "Coding of API requests with RxJS.",
+                "Developed NoCode responsive web application which is an Angular based project that is created to reduce the workload of creating applications with or without buying domains through programming",
+                "Designed reusable and reliable code for use within a distributed cloud environments and to maintain the versions of code on GitLab.",
+                "Organized this project in such a way that you can create your own style application according to your needs to create n number of applications",
                 "Creation of modules with complex reactive forms",
                 "Improved website performance by optimizing images and implementing caching techniques.",
                 "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
             ]
         },
         {
-            "Tab": "Freelancer",
-            "Title": "Independent",
-            "Date": "March 2020 - Present",
+            "Tab": "Intellect Design Arena",
+            "Title": "Software Engineer",
+            "Date": "July 2021 - Sept 2022",
+            "Number" : "3",
             "Description": [
-                "Implementing continuous improvements, working on frontend and backend.",
-                "Creating platforms with Angular, Nodejs, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-                "Automation of processes with data structures.",
+                "The Product is designed using Angular to give the decision of Pay or No Pay whether the transaction can be done or not depending on the Limits and Balances of particular risk entity",
+                "Revised, debugged, and updated old code bases to modern development standards, reducing operating costs, and improving functionality",
+                "Improving Application performance and creating a tree structure that shows the hierarchy of Customer Group, Customer, Account Group, and Account, which represents the limits and balances of child and parents",
                 "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
             ]
         }
     ],
-    "FeatureProjects.Title": "Projects that I was a part of",
-    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Title": "Projects I worked",
+    "FeatureProjects.Label": "My Projects",
     "FeatureProjects.Projects": [
         {
-            "Title": "2x School",
-            "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "Title": "MERN Stack Login and CRUD Application",
+            "Description": "React Js and Node Js based web responsive application with features like Login and Registration of users and each user has created record on which he can perform Create, Read, Update and Delete operations",
             "imgs": [
                 "assets/images/school/image1.png",
                 "assets/images/school/image2.png"
             ],
             "Technologies": [
-                "Angular",
-                "SASS",
-                "Angular Material",
-                "RxJS"
+                "React JS",
+                "Node JS",
+                "Express JS",
+                "MongoDB"
             ]
         },
         {
-            "Title": "Best Buy Mall",
-            "Description": "Best Buy Mall is Online Shopping Mall where you can buy your groceries and household products from your favourite local stores. It has <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
+            "Title": "Studunt Record Keeping",
+            "Description": "This is the Angular and Node JS based responsive web application, where user can have list of Students where admin can create new record of student with profile photo and also can update the records accoording to the needs and also delete the records.",
             "imgs": [
                 "assets/images/bbm/image1.png",
                 "assets/images/bbm/image2.png"
             ],
             "Technologies": [
                 "Angular",
-                "SASS",
-                "Material",
-                "RxJS",
-                "ExpressJS"
+                "Bootstrap",
+                "Node JS",
+                "Express JS",
+                "MongoDB"
             ]
         },
         {
-            "Title": " Mazhr",
-            "Description": " Mazhr is a Finnish Intelligent Potential and Talent Management company. that help organizations to build better and more efficient teams by matching their  <span class='underline'>Talent</span> and <span class='underline'>Potentials</span>. It has various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+            "Title": " Snippet Visualization System",
+            "Description": " We introduced Snippet visualization technique to visualize the collection of textual resul returned from web a query. The method builds meaningful layouts that optimize the placement of snippets that considers both overlapping removal and preservation of neighborhood structures. Since snippet visualization system relays only on information extracted from web result, it can be plugged into search engines in a straightforward manner.",
             "imgs": [
                 "assets/images/mazhr/image1.png"
             ],
             "Technologies": [
-                "React",
-                "SASS",
-                "Material",
-                "Babel",
-                "NodeJS"
-            ]
-        },
-        {
-            "Title": "Needle",
-            "Description": "Needle Music is a pioneer in the digital music industry as it allows users to create and manage their first and only Audiobiography. It built with the <span class='underline'>Spotify SDK</span> Integration.",
-            "imgs": [
-                "assets/images/mazhr/needle.png"
-            ],
-            "demoLink": "https://profile.needlemusic.co/bub",
-            "Technologies": [
-                "React",
-                "ChartJS",
-                "SASS",
-                "NodeJS",
-                "Python"
+                "HTML",
+                "SCSS",
+                "Javascriopt",
+                "Bootstrap",
+                "Php"
             ]
         }
     ],
-    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Title": "Education",
     "OtherProjects.Projects": [
         {
-            "Title": "Covid Tracker",
-            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
-            "ghLink": "https://github.com/mufeez1/carona19-tracker",
-            "demoLink": "http://carona19-by-muffeez.surge.sh/",
+            "Title": "B.Tech (Information Technology)",
+            "Description": "DKTE Textile and Engineering Institute, Ichalakaranji",
             "Technologies": [
-                "Angular",
-                "RxJs",
-                "API",
-                "Bootstrap"
+                "August 2016 to May 2021"
             ]
         },
         {
-            "Title": "Lets Chat",
-            "Description": "A real-time chat application. Another fun side project :)",
-            "ghLink": "https://github.com/mufeez1/lets-chat",
+            "Title": "H.S.C.",
+            "Description": "Vidyamandir Junior College, Islampur",
             "Technologies": [
-                "React",
-                "SASS",
-                "Socket.io",
-                "NodeJS",
-                "ExpressJS",
-                "Firebase"
+                "July 2014 to April 2016"
             ]
         },
         {
-            "Title": "Quiz App",
-            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-            "ghLink": "https://github.com/mufeez1/quizapp",
-            "demoLink": "https://github.com/mufeez1/quizapp",
+            "Title": "S.S.C.",
+            "Description": "Mahatma Gandhi Vidyalaya, Ashta",
             "Technologies": [
-                "React",
-                "SASS",
-                "TypeScript",
-                "API",
-                "3rd Party Library"
-            ]
-        },
-        {
-            "Title": "JWT Integration",
-            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
-            "ghLink": "https://github.com/mufeez1/node-jwt",
-            "demoLink": "https://github.com/mufeez1/node-jwt",
-            "Technologies": [
-                "React",
-                "JWT",
-                "ExpressJS",
-                "POSTGREESQL"
+                "June 2007 to May 2014"
             ]
         }
     ],

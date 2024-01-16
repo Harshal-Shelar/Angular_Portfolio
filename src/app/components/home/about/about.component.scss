@@ -20,14 +20,15 @@
             width: 300px;
             height: 300px;
             border-radius: 3px;
-            bottom: 290px;
+            bottom: 400px;
             left: 23px;
-
         }
 
         img{
-            z-index: 2;
-            position: relative;
+            height: 30rem;
+            width: auto;
+            margin-top: -4rem;
+            filter: drop-shadow(10px 10px 8px rgb(0, 0, 0));
         }
     }
 

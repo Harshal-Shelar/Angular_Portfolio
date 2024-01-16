@@ -35,6 +35,7 @@
           .cv-btn{
             width: fit-content !important;
             margin-left: 20px;
+            background-color: #64ffda;
           }
           .language-container{
             width: 200px;
@@ -114,6 +115,13 @@
     }
     .cv-btn{
       padding: 7px 15px !important;
+      background-color: #64ffda;
+      color: black !important;
+    }
+    .cv-btn:hover{
+        background-color: transparent;
+        transition: 0.5s;
+        color: #64ffda !important;
     }
     .nav-link {
         padding: 5px 0px;

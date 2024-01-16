@@ -23,8 +23,13 @@ footer{
         padding: 0;
 
         i{
-            font-size: 19px;
+            font-size: 24px;
             color: $LightSlate;
+        }
+
+        i:hover{
+            box-shadow: 0px 0px 10px 3px #000000;
+            transition: 0.5s;
         }
 
         li{
