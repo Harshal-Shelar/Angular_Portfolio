@@ -3,6 +3,7 @@
 
 ::ng-deep .jobs .jobs-tabs {
     display: flex;
+    width: 100%;
 
     .tab-content{
         margin-left: 38px;
@@ -70,7 +71,7 @@
 
 .jobs{
 
-    max-width: 700px;
+    max-width: 100%;
     margin: auto;
 
     .title-tab-content{

@@ -5,13 +5,13 @@
     "Header.Item4": "Education",
     "Header.Item5": "Contact",
     "Header.cvBtn": "Resume",
-    "Header.cvName": "MUFFEEZ_CV.pdf",
+    "Header.cvName": "HarshalShelarResume.pdf",
     "Banner.Pretitle": "Hello! My name is",
     "Banner.Description": "I have <span class='underline'>2 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and ExpressJS</span> and sometimes works with databases like <span class='underline'>MySQL and MongoDB</span> applying good practices and development standards.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked on <span class='underline'>Front End Technologies</span>,like <span class='underline'>Angular with different versions</span>, and covering front end developer roles with <span class='underline'>HTML, (S)CSS, Javascript, JQuery</span>. I have knowledge of backend technologies like, Node Js and Express JS, and Databases like MySQL and MongoDB.",
+        "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked on <span class='underline'>Front End Technologies</span>,like <span class='underline'>Angular with different versions</span>, and covering front end developer roles with <span class='underline'>HTML, (S)CSS, Javascript and Angular</span>. I have knowledge of backend technologies like, Node Js and Express JS, and Databases like MySQL and MongoDB.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
     "Experience.Title": "Experience",
@@ -20,7 +20,7 @@
             "Tab": "Aquarious Technology",
             "Title": "MEAN Stack developer",
             "Date": "May 2023 - Dec 2023",
-            "Number" : "1",
+            "Number": "1",
             "Description": [
                 "Created Angular-based responsive web application from scratch where admin and user have login and sign-up credentials",
                 "Admin can manage the property listed and the user can buy these properties with the facilities listed by the admin, and Admin can go through the complaints registered by the user",
@@ -28,12 +28,11 @@
                 "Worked with back-end developers to integrate with APIs to manipulate asynchronous data and used GitHub to maintain the versions of code"
             ]
         },
-        
         {
             "Tab": "Fintech Global Center",
             "Title": "Frontend developer",
             "Date": "Nov 2022 - March 2023",
-            "Number" : "2",
+            "Number": "2",
             "Description": [
                 "Developed NoCode responsive web application which is an Angular based project that is created to reduce the workload of creating applications with or without buying domains through programming",
                 "Designed reusable and reliable code for use within a distributed cloud environments and to maintain the versions of code on GitLab.",
@@ -47,7 +46,7 @@
             "Tab": "Intellect Design Arena",
             "Title": "Software Engineer",
             "Date": "July 2021 - Sept 2022",
-            "Number" : "3",
+            "Number": "3",
             "Description": [
                 "The Product is designed using Angular to give the decision of Pay or No Pay whether the transaction can be done or not depending on the Limits and Balances of particular risk entity",
                 "Revised, debugged, and updated old code bases to modern development standards, reducing operating costs, and improving functionality",
@@ -106,17 +105,17 @@
     "OtherProjects.Title": "Education",
     "OtherProjects.Projects": [
         {
-            "Title": "B.Tech (Information Technology)",
-            "Description": "DKTE Textile and Engineering Institute, Ichalakaranji",
-            "Technologies": [
-                "August 2016 to May 2021"
-            ]
-        },
-        {
             "Title": "H.S.C.",
             "Description": "Vidyamandir Junior College, Islampur",
             "Technologies": [
                 "July 2014 to April 2016"
+            ]
+        },
+        {
+            "Title": "B.Tech (Information Technology)",
+            "Description": "DKTE Textile and Engineering Institute, Ichalakaranji",
+            "Technologies": [
+                "August 2016 to May 2021"
             ]
         },
         {
